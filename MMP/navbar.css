@@ -1,0 +1,22 @@
+body {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 2000px;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline;
+    position: relative;
+    font-family: sans-serif;
+}
+
+li:hover ul {
+    display: block;
+}

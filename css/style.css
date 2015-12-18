@@ -1,0 +1,139 @@
+body{
+    background-color: rgb(70,70,70);
+}
+
+
+h1{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+    line-height: 40px;
+}
+h4{
+    color: aliceblue;
+    line-height: 30px
+}
+
+.home {
+    margin:auto;
+	position: relative;
+    width: 100%;
+
+}
+
+
+.la-vie {
+    margin: auto;
+	position: relative;
+    width: 100%;
+
+}
+
+.video{
+    float: left;
+    margin-right: 20px;
+}
+
+.HPN{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.a1{
+    text-align: center
+}
+.a2{
+    width:285px;
+    float:left;
+    margin: 5ps;
+    padding: 5px;
+    border:2px solid rgb(99,99,99);
+
+}
+
+.clear{
+    clear: left;
+}
+
+
+
+
+.lsss {
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 600px;
+    width: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--footer--*/
+.footer{
+    background: rgb(200,200,200);
+    margin-bottom: 20px;
+}
+
+ul.social{
+    list-style-type: none;
+    margin: 0;
+    padding: 32px 0px 0px;
+    text-align: right;
+}
+ul.social li{
+    margin: auto;
+    padding: 0;
+    display: inline;
+}
+ul.social li a{
+    background: url(../source/soc.png);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+}
+ul.social li a.face{
+    background-position: 0px 0px;
+}
+ul.social li a.face:hover{
+    background-position: 0px 24px;
+}
+ul.social li a.twit{
+    background-position: -26px 0px;
+}
+ul.social li a.twit:hover{
+    background-position: -26px 24px;
+}
+ul.social li a.gplus{
+    background-position: -51px 0px;
+}
+ul.social li a.gplus:hover{
+    background-position: -51px 24px;
+}
+ul.social li a.inst{
+    background-position: -76px 0px;
+}
+ul.social li a.inst:hover{
+    background-position: -76px 24px;
+}
+ul.social li a.pint{
+    background-position: -101px 0px;
+}
+ul.social li a.pint:hover{
+    background-position: -101px 24px;
+}

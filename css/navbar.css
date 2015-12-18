@@ -1,0 +1,17 @@
+.navbar {
+  margin-bottom: 20px;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline;
+    position: relative;
+    font-family: sans-serif;
+}
+
+li:hover ul {
+    display: block;
+}
