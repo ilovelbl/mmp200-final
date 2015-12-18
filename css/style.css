@@ -59,6 +59,20 @@ h4{
     clear: left;
 }
 
+.pr1{
+    width:400px;
+    float:left;
+    margin: 5ps;
+    padding: 5px;
+    line-height: 50px;
+}
+.pr2{
+    width:670px;
+    float:left;
+    margin: 5ps;
+    padding: 5px;
+    line-height: 50px;
+}
 
 
 
@@ -71,7 +85,20 @@ h4{
 
 }
 
-
+.hm1{
+    width:310px;
+    float:left;
+    margin: 5ps;
+    padding: 5px;
+    line-height: 50px;
+}
+.hm2{
+    width:500px;
+    float:left;
+    margin: 5ps;
+    padding: 5px;
+    line-height: 50px;
+}
 
 
 
